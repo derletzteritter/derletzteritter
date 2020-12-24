@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a FiveM CLI Tool, FiveM Phone and ESX v2. As well a React-Native Application.
 - 🌱 I’m currently learning C# and Golang
-- 💬 Ask me about anything really, if you have any questions, reach me out on Discord: chip#0750
+- 💬 Ask me about anything really, if you have any questions, reach me out on Discord: chip#8183
 - ⚡ Fun fact: I like food shows on Netflix
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itschip&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
