@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am me, and me likes to code stuff.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=itschip&show_icons=true&title_color=d35400&text_color=d35400)
 
