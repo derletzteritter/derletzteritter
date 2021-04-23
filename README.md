@@ -7,5 +7,5 @@ I am me, and me likes to code stuff.
 - 🌱 I’m currently learning how to not use 'any' as a type.
 - ⚡ Fun fact: I like food shows on Netflix
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itschip&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itschip&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
