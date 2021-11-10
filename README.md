@@ -1,5 +1,5 @@
 ### Hi there 👋
-I usually spend my time in Vim with Golang or TypeScript
+I usually spend my time in NeoVim with Golang or TypeScript
 
 While I hate ASP.NET, writing Lua is worse. 
 
