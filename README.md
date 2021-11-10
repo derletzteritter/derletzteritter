@@ -9,7 +9,7 @@ Oh, I almost forgot! I love React 16.x without hooks <3
 
 
 ```golang
-package itschp
+package itschip
 
 type Brain struct {
   
