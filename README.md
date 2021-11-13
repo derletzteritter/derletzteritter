@@ -12,13 +12,6 @@ Oh, I almost forgot! I love React 16.x without hooks <3
 package itschip
 
 type Brain struct {
-  Golang      int
-  JavaScript  int
-  Typescript  int
-  CSharp      int
-}
 
-func main() {
-  myBrain := Brain{0, 0, 0, 0}
 }
 ```
