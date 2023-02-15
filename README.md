@@ -6,7 +6,7 @@
 
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=itschip&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
+(apparently you need this^ to look cool)
 
 ```golang
 package itschip
